@@ -1,11 +1,9 @@
-import unittest
 from datetime import date
 from service import AirLine, Client, Package
 
 
 def main():
     airline = AirLine()
-    unittest.main(exit=False)
     while True:
         action = input("Enter 'transport' to transport a package or 'report' to generate a report (or 'exit' to quit): ")
 
