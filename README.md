@@ -38,10 +38,10 @@ Para salir del programa, ingrese `'exit'` cuando se le solicite.
 
 ## Ejecutar pruebas unitarias
 
-El programa incluye ejecucion de pruebas unitarias para garantizar la corrección de la clase `AirLine` y sus métodos. La ejecucion es automatica al inicio del programa.
+El programa incluye ejecucion de pruebas unitarias para garantizar la corrección de la clase `AirLine` y sus métodos.
 
 ```
-python main.py
+python test.py
 ```
 
 Las pruebas se ejecutarán y los resultados se mostrarán en la terminal.

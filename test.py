@@ -53,3 +53,7 @@ class TestAirLine(unittest.TestCase):
             'total_packages': 0,
             'total_amount': '$0'
         })
+        
+        
+if __name__ == "__main__":
+    unittest.main()
